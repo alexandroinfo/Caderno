@@ -1,6 +1,7 @@
 DIO | GitHub | SQL | Power BI | NotebookLM
 
-# 📊 Caderno Temático — Fundamentos de Análise de Dados com SQL e Power BI
+# 📊 Caderno Temático
+Fundamentos de Análise de Dados com SQL e Power BI
 
 ## 📌 Sobre o projeto
 
