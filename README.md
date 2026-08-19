@@ -1,12 +1,5 @@
-┌──────────────────────────────────────────────┐
-│       📊 CADERNO TEMÁTICO — DIO             │
-│                                              │
-│       SQL • DADOS • POWER BI                 │
-│                                              │
-│       NotebookLM + Engenharia de Prompts     │
-└──────────────────────────────────────────────┘
-
 DIO | GitHub | SQL | Power BI | NotebookLM
+
 # 📊 Caderno Temático — Fundamentos de Análise de Dados com SQL e Power BI
 
 ## 📌 Sobre o projeto
